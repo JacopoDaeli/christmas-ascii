@@ -1,0 +1,29 @@
+{
+  "name": "christmas-ascii",
+  "version": "0.0.1",
+  "description": "Get some Christmas ascii",
+  "main": "index.js",
+  "bin": {
+    "christmas-ascii": "./cli.js"
+  },
+  "scripts": {
+    "pretest": "npm install",
+    "test": "node test.js"
+  },
+  "author": {
+    "name": "Jacopo Daeli"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacopoDaeli/christmas-ascii.git"
+  },
+  "dependencies": {
+  },
+  "maintainers": [
+    {
+      "name": "JacopoDaeli",
+      "email": "jacopo.daeli@gmail.com"
+    }
+  ]
+}
