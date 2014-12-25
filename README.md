@@ -1,4 +1,4 @@
-# christmas-ascii
+# Christmas Ascii
 
 ## Introduction
 
@@ -13,7 +13,7 @@ npm install -g christmas-ascii
 christmas-ascii [-a | --all]
 ```
 
-### JS (Programatically)
+### JS (Programmatically)
 
 ```
 var xmas = require('christmas-ascii')

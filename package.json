@@ -1,6 +1,6 @@
 {
   "name": "christmas-ascii",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get some Christmas ascii",
   "main": "index.js",
   "bin": {
